@@ -11,8 +11,8 @@
 
 // Default placeholder config — overwritten when config.public.json loads
 const SUPABASE_CONFIG = {
-    url: 'YOUR_SUPABASE_URL_HERE',
-    anonKey: 'YOUR_SUPABASE_ANON_KEY_HERE'
+    url: 'https://mcp.supabase.com/mcp?project_ref=odgnwnpamhdyuspnkvua',
+    anonKey: 'sb_publishable_qXxHX7vCjuUESll9X-EK6Q_XnQD6-Hi'
 };
 
 // Load config.public.json and update SUPABASE_CONFIG
